@@ -1,3 +1,6 @@
 [submodule "bitcoinj"]
 	path = bitcoinj
 	url = https://github.com/bitsquare/bitcoinj.git
+[submodule "jsocks"]
+	path = jsocks
+	url = https://github.com/sgeisler/jsocks.git
